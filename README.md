@@ -1,4 +1,4 @@
-# Homebrw Hexlix VM
+# Homebrew Hexlix VM
 
 Homebrew helix is a proof of concept virtual machine which is supposed to act as a compatability layer for developers writing console homebrew the same way the JVM allows java applications to run on any system.
 
