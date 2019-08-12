@@ -16,7 +16,7 @@ On Nintendo Switch place an exe.bin file on the root of the SD card to run it.
 
 The assembler isn't capabale of compiling executables yet but exe.bin files can be made by hand using a hex editor like [HXD](https://mh-nexus.de/en/hxd/). Look at Opcodes-WIP.txt to see a list of op codes and VM_CPU_Execute.cpp to see what they do. All instructions are 4 bytes long, the op code is the fourth byte and the opperands go in the first to third bytes.
 
-##Running
+## Running
 
 To run on windows run hbh.exe in a command prompt.
 To run on Nintendo Switch place HBH_NX.nro in the /switch/ folder on your SD card. Open [nx-hbmenu](https://github.com/switchbrew/nx-hbmenu) with [Atmosphere-nx](https://github.com/Atmosphere-NX/Atmosphere) and open HBH_NX.
