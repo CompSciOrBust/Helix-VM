@@ -1,0 +1,1 @@
+g++ -o hbh main.cpp VM_Init.cpp VM_CPU_Fetch.cpp VM_CPU_Decode.cpp VM_CPU_Execute.cpp

@@ -1,0 +1,15 @@
+0 - Halt
+1 - Add
+2 - Subtract
+3 - Load immediate value in to Reg1
+4 - Load memory adress in Reg2 into Reg1
+5 - Move Reg1 to Reg2
+6 - Move Reg1 to memory adress in Reg2
+X - Jump - Just write to R0
+x - Jump not zero
+x - Jump equals Zero
+x - Jump greater than zero - Use opcode 7
+x - Jump less than zero - Use opcode 7
+7 - Jump to Reg1 if Reg2 > Reg3
+8 - Jump to Reg1 if Reg2 = Reg3
+9 - Jump to Reg1 if Reg2 != Reg3
